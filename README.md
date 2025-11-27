@@ -52,5 +52,3 @@ psych30n-illusion2/
 ```
 
 ---
-
-If you want, I can add screenshots, usage instructions, a demo link, or a description of the illusion’s neuroscience.
