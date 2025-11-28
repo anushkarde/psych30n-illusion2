@@ -6,7 +6,7 @@ This is the Illusion II project for PSYCH 30N: Introduction to Perception by Anu
 
 ---
 
-## 🔧 How to Run the Project
+## How to Run the Project
 
 1. **Clone the repository** (or download the project folder).
 
@@ -37,18 +37,5 @@ This is the Illusion II project for PSYCH 30N: Introduction to Perception by Anu
 6. The app will open automatically at:
    **[http://localhost:3000](http://localhost:3000)**
 
----
-
-## 📁 Project Structure
-
-```
-psych30n-illusion2/
-└── motion-aftereffect2/
-    ├── public/
-    ├── src/
-    ├── package.json
-    ├── tailwind.config.js
-    └── ...
-```
 
 ---
